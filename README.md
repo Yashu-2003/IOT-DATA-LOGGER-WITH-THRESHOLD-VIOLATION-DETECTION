@@ -19,7 +19,10 @@ This IoT-based data logger monitors temperature and humidity using a DHT11 senso
 2.PROGRAMMING IN EMBEDDED C :The primary programming language for LPC2148.
 3.Flash Magic:To load the program onto the LPC2148.
 
-🏗️ SYSTEM ARCHITECTURE: image
+🏗️ SYSTEM ARCHITECTURE: 
+  ![image](https://github.com/user-attachments/assets/0b6ee6a4-61b3-4b35-ba83-d123fda940c0)
+
+
 
 🔑 KEY FEATURES:
 
